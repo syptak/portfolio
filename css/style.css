@@ -43,7 +43,7 @@ body {
 }
 
 #navbar ul li a:hover {
-    background-color: lightblue;
+    background-color: rgb(69, 255, 255);
     border-radius: 5px;
     color: black;
 }
@@ -148,13 +148,13 @@ img {
   .projects-section {
     text-align: center;
     padding: 10rem 2rem;
-    background: grey;
+    background: lightgrey;
   }
   
   .projects-section-header {
     max-width: 640px;
     margin: 0 auto 6rem auto;
-    border-bottom: 0.2rem grey;
+    border-bottom: 0.2rem lightgrey;
   }
   
   @media (max-width: 28.75em) {
@@ -242,6 +242,6 @@ img {
     background-image: linear-gradient(62deg, aqua 30%, #181719 100%);
   }
 .project-title {
-    background-color: #616264;
+    background-color: grey;
     text-align: center;
   }
